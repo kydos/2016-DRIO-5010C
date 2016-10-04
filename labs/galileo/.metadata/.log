@@ -1,0 +1,19 @@
+!SESSION 2016-09-26 09:21:07.710 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_73
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/veda/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/veda/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.osgi 4 0 2016-09-26 09:21:08.778
+!MESSAGE Bundle reference:file:com.intel.iotdevkit.cdt.gwy_3.0.0.201603141326.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2016-09-26 09:21:08.780
+!MESSAGE Bundle reference:file:com.intel.iotdevkit.cdt.gwy.i586_3.0.0.201603141326.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2016-09-26 09:21:08.783
+!MESSAGE Bundle reference:file:com.intel.iotdevkit.cdt.gwy.x64_3.0.0.201603141326.jar@4 not found.
+
+!ENTRY org.eclipse.core.net 1 0 2016-09-26 09:22:45.263
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences

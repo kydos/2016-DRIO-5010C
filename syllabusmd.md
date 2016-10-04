@@ -1,14 +1,15 @@
 ## Lecture 1: IoT Architectures
 ### 15.00-17.00 on 30th Sept 2016
-- **What is IoT**
+- **Course Outline and Logistics**
+- **What is IoT**
 
 - **CIoT vs IIoT (difference and similarities)**
 
-- **Organisations and Standards **
+- **Organisations and Standards**
 	- Industrie 4.0
 	- IIC	 	- ETSI	- OneM2M
 	- ...
-- **Architectural Style Evolution **	- Cloud Computing	- Fog Computing	- Mist Computing- **Reference Architectures**
+	- **Architectural Style Evolution**	- Cloud Computing	- Fog Computing	- Mist Computing- **Reference Architectures**
 	- I4.0
 	- IIRA
 - **Architectural Challenges**	- Scale
